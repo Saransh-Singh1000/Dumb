@@ -1,0 +1,27 @@
+{
+  "name": "dumb.model",
+  "version": "0.0.0",
+  "description": "A goofy Dumb model.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "dumb activate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saransh-Singh1000/Dumb.git"
+  },
+  "keywords": [
+    "Dumb",
+    "Model"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saransh-Singh1000/Dumb/issues"
+  },
+  "homepage": "https://github.com/Saransh-Singh1000/Dumb#readme",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.14.3",
+    "@grpc/proto-loader": "^0.8.0"
+  }
+}
