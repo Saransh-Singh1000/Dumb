@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="c:\Users\sharm\OneDrive\Desktop\server\Chatapp\.venv"
+VIRTUAL_ENV="C:\Users\sharm\OneDrive\Desktop\server\Chatapp\Model\Dumb\Python\.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
